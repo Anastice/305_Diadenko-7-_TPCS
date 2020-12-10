@@ -1,0 +1,198 @@
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Untitled.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NO NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ELECTRICAL RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+Warning 1 -- Unconnected pin GB1-2 on sheet:Sheet1 at mm (161.000,188.000)
+Warning 2 -- Unconnected pin GB1-1 on sheet:Sheet1 at mm (161.000,208.100)
+Warning 3 -- Unconnected pin R1-1 on sheet:Sheet1 at mm ( 87.000,167.100)
+Warning 4 -- Unconnected pin R1-2 on sheet:Sheet1 at mm ( 87.000,187.240)
+Warning 5 -- Unconnected pin KT1-K on sheet:Sheet1 at mm (107.100,183.500)
+Warning 6 -- Unconnected pin KT1-B on sheet:Sheet1 at mm ( 98.500,192.600)
+Warning 7 -- Unconnected pin KT1-E on sheet:Sheet1 at mm (107.000,202.000)
+Warning 8 -- Unconnected pin SP1-1 on sheet:Sheet1 at mm (130.000,230.100)
+Warning 9 -- Unconnected pin SP1-2 on sheet:Sheet1 at mm (130.000,210.000)
+Warning 10 -- Unconnected pin KT814A1-K on sheet:Sheet1 at mm (129.000,185.300)
+
+Warning 11 -- Unconnected pin KT814A1-B on sheet:Sheet1 at mm (120.400,176.200)
+
+Warning 12 -- Unconnected pin KT814A1-E on sheet:Sheet1 at mm (129.000,166.900)
+
+
+12 warning(s) detected.
+0 error(s) detected.
+
+
+----------------------------------------------------------------------
+
+07-Nov-20  22:24                                            Page    1
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+UNCONNECTED WIRES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+BUS/NET RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+Single Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       12
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+
+----------------------------------------------------------------------
+
+07-Nov-20  22:24                                            Page    2
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Net Connectivity:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+07-Nov-20  22:24                                            Page    3
+
